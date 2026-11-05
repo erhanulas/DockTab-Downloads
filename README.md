@@ -10,6 +10,8 @@ macOS 27 ve üzeri / Apple silicon için Dock pencere önizlemeleri.
 
 0.16.3 ve sonrasında **Ayarlar → Command + Tab → Çok pencereli uygulamalarda önizlemelere geç** seçeneğini açabilirsiniz. Varsayılan kapalıdır. Birden fazla penceresi olan uygulamada sağ/sol oklarla önizlemeyi seçin, Enter ile açın veya Escape ile iptal edin. Command bırakıldığında çoklu pencere seçimi açık kalır. Command + Tab uygulamalar arasında dolaşmayı sürdürür. Bu seçenek DockTab seçicisini kullanır; penceresiz uygulamaları gizleme tercihi bağımsızdır.
 
+0.16.4 ve sonrasında sağ/sol oklarla seçilen pencerenin büyük önizlemesi, seçicinin arkasında gerçek pencere konumunda gösterilir. Pencere Enter'a basılana kadar aktive edilmez. Enter, Escape veya uygulama değiştirme büyük önizlemeyi kapatır.
+
 ## Uygulama içinden güncelleme
 
 0.16.2 ve sonrasında **Ayarlar → Güncellemeler → Güncellemeleri otomatik denetle** seçeneği varsayılan açıktır. DockTab çalışırken yaklaşık 24 saatte bir yeni sürüm kontrol edilir. Seçeneği kapatabilirsiniz; daha önce kapatılmış bir Sparkle tercihi varsa korunur. Yeni sürüm bulunduğunda haber verilir; indirme ve kurulum sizin onayınızla ilerler.
