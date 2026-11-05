@@ -12,6 +12,8 @@ macOS 27 ve üzeri / Apple silicon için Dock pencere önizlemeleri.
 
 0.16.4 ve sonrasında sağ/sol oklarla seçilen pencerenin büyük önizlemesi, seçicinin arkasında gerçek pencere konumunda gösterilir. Pencere Enter'a basılana kadar aktive edilmez. Enter, Escape veya uygulama değiştirme büyük önizlemeyi kapatır.
 
+0.16.5 ve sonrasında seçili pencere kartının altında parlayan turkuaz neon çizgi görünür. Çizgi, sağ/sol oklarla veya fareyle seçilen kartı takip eder; açık ve koyu görünüme uyarlanır.
+
 ## Uygulama içinden güncelleme
 
 0.16.2 ve sonrasında **Ayarlar → Güncellemeler → Güncellemeleri otomatik denetle** seçeneği varsayılan açıktır. DockTab çalışırken yaklaşık 24 saatte bir yeni sürüm kontrol edilir. Seçeneği kapatabilirsiniz; daha önce kapatılmış bir Sparkle tercihi varsa korunur. Yeni sürüm bulunduğunda haber verilir; indirme ve kurulum sizin onayınızla ilerler.
