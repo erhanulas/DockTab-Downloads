@@ -6,6 +6,10 @@ macOS 27 ve üzeri / Apple silicon için Dock pencere önizlemeleri.
 
 [Son sürümün kurulum paketini indirin](https://github.com/erhanulas/DockTab-Downloads/releases/latest). `DockTab-<sürüm>.pkg`, uygulamayı `/Applications/DockTab.app` konumuna kurar.
 
+## Pencereler arasında klavyeyle seçim
+
+0.16.3 ve sonrasında **Ayarlar → Command + Tab → Çok pencereli uygulamalarda önizlemelere geç** seçeneğini açabilirsiniz. Varsayılan kapalıdır. Birden fazla penceresi olan uygulamada sağ/sol oklarla önizlemeyi seçin, Enter ile açın veya Escape ile iptal edin. Command bırakıldığında çoklu pencere seçimi açık kalır. Command + Tab uygulamalar arasında dolaşmayı sürdürür. Bu seçenek DockTab seçicisini kullanır; penceresiz uygulamaları gizleme tercihi bağımsızdır.
+
 ## Uygulama içinden güncelleme
 
 0.16.2 ve sonrasında **Ayarlar → Güncellemeler → Güncellemeleri otomatik denetle** seçeneği varsayılan açıktır. DockTab çalışırken yaklaşık 24 saatte bir yeni sürüm kontrol edilir. Seçeneği kapatabilirsiniz; daha önce kapatılmış bir Sparkle tercihi varsa korunur. Yeni sürüm bulunduğunda haber verilir; indirme ve kurulum sizin onayınızla ilerler.
